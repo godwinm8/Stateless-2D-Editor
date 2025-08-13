@@ -135,7 +135,7 @@ firebase deploy
 ---
 
 ## 🔗 Live Demo
-**Demo URL:** _[[Add after deployment](https://stateless-2-d-editor-godwinmano909-gmailcoms-projects.vercel.app/)]_
+**Demo URL:** _[https://stateless-2-d-editor-godwinmano909-gmailcoms-projects.vercel.app/]_
 
 ---
 
